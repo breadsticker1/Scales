@@ -20,9 +20,9 @@ void scale(int x, int y) {
   fill(((int)(Math.random()*256)),((int)(Math.random()*256)),((int)(Math.random()*256)),((int)(Math.random()*20)));
   curveVertex(0+x,0+y);
   curveVertex(0+x,0+y);
-  curveVertex(20+x,35+y);
+  curveVertex(22+x,44+y);
   curveVertex(73+x,66+y);
-  curveVertex(20+x,90+y);
+  curveVertex(21+x,80+y);
   curveVertex(0+x,130+y);
   curveVertex(0+x,130+y);
   endShape();
